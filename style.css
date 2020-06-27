@@ -1,0 +1,32 @@
+.main{
+    border: 2px solid grey;
+    width: 300px;
+    height: 210px;
+    margin: 0px auto;
+    background-color: black;
+    border-radius: 10px;
+}
+.header{
+    height: 20px;
+    background-color: black;
+    padding: 1px 1px ;
+    color: darkgray;
+}
+.result{
+    width: 98%;
+    background-color: white;
+    color: grey;
+    height: 40px;
+    margin-top: 1px;
+    border: 1px solid grey;
+    color: black ;
+}
+.btn{
+    width: 65px ;
+    margin-top: 10px;
+    margin-right: 2px;
+    margin-left: 4px;
+    height: 22px;
+    background-color: white;
+
+}
